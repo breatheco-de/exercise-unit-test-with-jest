@@ -1,4 +1,4 @@
-# Planificando nuestras funcionalidades
+# `10` Planificando nuestras funcionalidades
 
 El primer paso en cada aplicación es pensar sobre los requisitos del proyecto y cómo desarrollarlos.
 

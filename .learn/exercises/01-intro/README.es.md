@@ -2,7 +2,7 @@
 
 ![welcome jest](../../assets/welcome.png)
 
-Hoy vamos a crear un convertidor de unidades pequeño en node.js (javascript) utilizando Test Driven Development.
+Hoy vamos a crear un convertidor de unidades en node.js (javascript) utilizando Test Driven Development.
 
 Test driven development significa que primero desarrollaremos las pruebas y luego las funcionalidades.
 
@@ -12,8 +12,10 @@ Test driven development significa que primero desarrollaremos las pruebas y lueg
 
 Abre una nueva ventana del terminal y escribe el siguiente comando en tu terminal:
 
-```
+```bash 
 $ node -v
 ```
 
-Nota: Si estás utilizando Gitpod o VSCode, puedes abrir un nuevo terminal haciendo click en el menú superior `terminal -> new terminal`.
+#### 💡 Ayuda:   
+
+Si estás utilizando Gitpod o VSCode, puedes abrir un nuevo terminal haciendo click en el menú superior `terminal -> new terminal`.

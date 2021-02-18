@@ -12,8 +12,10 @@ Test driven development means that we will develop the tests first, and the func
 
 Open a new terminal window and write the following command on your terminal: 
 
-```
+```bash
 $ node -v
 ```
 
-Note: If you are using Gitpod or VSCode you can open a new terminal by clicking on the top menu `terminal -> new terminal`.
+#### 💡 Help
+
+If you are using Gitpod or VSCode you can open a new terminal by clicking on the top menu `terminal -> new terminal`.

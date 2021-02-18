@@ -1,4 +1,4 @@
-# `13` Trabajo para casa e instrucciones
+# `13` Continua desarrollando tus pruebas!
 
 Por favor, escribe las pruebas y la implementación para las dos funciones restantes: `fromDollarToYen` y `fromYenToPound`
 

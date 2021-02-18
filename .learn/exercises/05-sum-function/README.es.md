@@ -4,7 +4,7 @@ Para crear un pequeño ejemplo, queremos que llenes el contenido de `app.js` con
 
 ## 📝 Instrucciones
 
-Reemplaza todo el contenido del archivo con la siguiente función:
+Reemplaza todo el contenido del archivo `app.js` con la siguiente función:
 
 ```js
 // esta es mi función que suma dos números
