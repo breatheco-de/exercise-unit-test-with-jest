@@ -11,7 +11,9 @@ Today we are going to be using the [jest framework](https://jestjs.io/) to creat
 
 ## 💻 Installation
 
-1. For this repository and press the like button if you like it!  
+1. `Fork` this repository to be able to save and commit your changes later.
+2.  Press the like button if you like it!  
+3.  Pick one of these two steps depending on your installation type:
 A. If you are using gitpod you can start this project by [clicking here](https://gitpod.io#https://github.com/breatheco-de/exercise-unit-test-with-jest).  
 B. If you are working locally follow this steps:
 
