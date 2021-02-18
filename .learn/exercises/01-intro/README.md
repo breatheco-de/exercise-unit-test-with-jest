@@ -1,4 +1,6 @@
-# Welcome to unit testing!
+# Welcome to Unit Testing!
+
+![welcome jest](../../assets/welcome.png)
 
 Today you will be creating a small a unit converter in node.js (javascript) using Test Driven Development.
 
