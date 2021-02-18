@@ -1,0 +1,19 @@
+# Ignore everything
+/*
+
+!.gitignore
+!.gitpod.yml
+!.gitpod.Dockerfile
+!bc.json
+!learn.json
+!README.md
+
+!/exercises
+!/exercises/*
+
+!/.learn
+/.learn/**
+!/.learn/resets
+!/.learn/resets/**
+!/.learn/assets
+!/.learn/assets/**
