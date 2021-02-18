@@ -17,10 +17,10 @@ let oneEuroIs = {
 }
 ```
 
-You can be confident that 1 USD is 1.2 EUR:
+You can be confident that 1 EUR is 1.2 USD:
 
 ```txt
-1 USD (US Dollar) = 1.2 EUR (Euro)
+1 EUR (Euro) = 1.2 USD (US Dollar)
 ```
 
 Our program needs to have functions to convert `fromDollarToYen`, `fromEuroToDollar` and `fromYanToPound`.
@@ -30,4 +30,3 @@ Our program needs to have functions to convert `fromDollarToYen`, `fromEuroToDol
 | fromDollarToYen   | a dollar amount   | equivalent amount in Japan YEN    |
 | fromEuroToDollar  | a Euro amount     | equivalent amount in US Dollar    |
 | fromYanToPound    | a Yan amount      | equivalent amount in England Pound|
-

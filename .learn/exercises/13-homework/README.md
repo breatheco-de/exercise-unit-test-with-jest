@@ -6,7 +6,7 @@ Please write the tests and implementation for the two remaining functions: `from
 | ----------------- | ----------------- | ----------------------------------|
 | fromDollarToYen   | a dollar amount   | equivalent amount in Japan YEN    |
 | fromEuroToDollar  | a Euro amount     | equivalent amount in US Dollar    |
-| fromYanToPound    | a Yan amount      | equivalent amount in England Pound|
+| fromYenToPound    | a Yen amount      | equivalent amount in England Pound|
 
 Remember these are the currency convertion values:
 

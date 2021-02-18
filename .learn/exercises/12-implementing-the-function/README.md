@@ -3,7 +3,7 @@
 Now that the test is ready, we have to implement the function that is going to comply with that test.
 The function has to be implemented in app.js because it is a part of our application, not of our tests.
 
-Plase the following code at the **beginning** of your app.js:
+Place the following code at the **beginning** of your app.js:
 
 ```js
 // we declare the function with the exact name "fromEuroToDollar"
