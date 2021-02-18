@@ -7,7 +7,7 @@ After jest discovers your test files it will start executing the test() function
 
 ### About the ouput:
 
-Every tine you `npm run test` you will get a report back on the command line specifiying how many 
+Every time you `npm run test` you will get a report back on the command line specifiying how many 
 files containing the word "test" were found and what how many of them were successfully executed.
 
 ![Jest Report](../../assets/08.1jest-report.png)
