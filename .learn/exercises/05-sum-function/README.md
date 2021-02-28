@@ -1,6 +1,6 @@
 # `5` Our first function
 
-To create a small example we want you to fill the content of the `app.js` with a function sum that sums two given numbers and we are going to develop (eventually) the tests that make sure for that function works perfect.
+To create a small example, we want you to fill the content of `app.js` with a 'sum' function that adds two given numbers and we will develop (eventually) the tests that ensure that this function works perfectly.
 
 ## 📝 Instructions
 

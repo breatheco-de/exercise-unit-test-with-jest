@@ -6,11 +6,11 @@ The function has to be implemented in app.js because it is a part of our applica
 Place the following code at the **beginning** of your app.js:
 
 ```js
-// declaramos una funcion con el mismo nombre "formEuroToDollar"
+// we declare the function with the exact name "fromEuroToDollar"
 const fromEuroToDollar = function(valueInEuro){
-    // convertimos el valor a dolares
+    // convert the given valueInEuro to dollars
     let valueInDollar = valueInEuro * 1.2;
-    // returnamos el valor
+    //return the dollar value
     return valueInDollar;
 }
 ```
@@ -18,21 +18,21 @@ const fromEuroToDollar = function(valueInEuro){
 Make sure to update the `module.exports` located at the end of file to the following:
 
 ```js
-// tenemos que incluir la funcion en el exports para que sea exportada a otros archivos como test.js
+// we include fromEuroToDollar here as well because it needs to be exported
 module.exports = { sum, fromEuroToDollar }
 ```
 
 ## 📝 Instructions
 
-Corre tus pruebas de nuevo escribiendo el siguiente comando en tu terminal:
+Run your tests again by typing the following command in your terminal:
 
 ```bash
 $ npm run test
 
 ```
 
-## ✅ Comprueba que funcionó
+## ✅ Check if it worked
 
-Despues de correr el test, deberias visualizar en la consola 2 pruebas exitosas:
+After running the test, you should see 2 successful tests on the console:
 
 ![12-success-test](../../assets/12-success-test.png)
