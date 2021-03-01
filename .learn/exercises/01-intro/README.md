@@ -2,7 +2,7 @@
 
 ![welcome jest](../../assets/welcome.png)
 
-Today you will be creating a small a unit converter in node.js (javascript) using Test Driven Development.
+Today you will be creating a small unit converter in node.js (javascript) using Test Driven Development.
 
 Test driven development means that we will develop the tests first, and the functionalities later.
 

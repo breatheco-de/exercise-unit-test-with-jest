@@ -6,11 +6,11 @@ La función debe ser implementada en app.js porque es parte de nuestra aplicaci�
 Coloca el siguiente código al **comienzo** de tu app.js:
 
 ```js
-// we declare the function with the exact name "fromEuroToDollar"
+// declaramos una funcion con el mismo nombre "formEuroToDollar"
 const fromEuroToDollar = function(valueInEuro){
-    // convert the given valueInEuro to dollars
+    // convertimos el valor a dolares
     let valueInDollar = valueInEuro * 1.2;
-    //return the doller value
+    // retornamos el valor
     return valueInDollar;
 }
 ```
@@ -18,7 +18,7 @@ const fromEuroToDollar = function(valueInEuro){
 Asegúrate de actualizar el `module.exports` ubicado al final del archivo de esta forma:
 
 ```js
-// we include fromEuroToDollar here as well because it needs to be exported
+// tenemos que incluir la funcion en el exports para que sea exportada a otros archivos como test.js
 module.exports = { sum, fromEuroToDollar }
 ```
 

@@ -13,7 +13,7 @@ const sum = (a,b) => {
 }
 
 // solo un registro en consola para nosotros.
-console.log(7,3)
+console.log(sum(7,3))
 
 // exporta la función para usarla en otros archivos 
 // (similar a la palabra clave `export` cuando se usa webpack)

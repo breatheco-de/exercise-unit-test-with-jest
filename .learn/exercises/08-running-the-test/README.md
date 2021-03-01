@@ -16,7 +16,7 @@ Note: Open the package.json and look for the "test" scripts.
 
 ## 📝 Instructions
 
-Type on the console the following commant:
+Type on the console the following command:
 
 ```
 $ npm run test
