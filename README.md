@@ -9,15 +9,17 @@ Most developers today are required not only to write code, but they also need to
 
 Today we are going to be using the [jest framework](https://jestjs.io/) to create our first tests.
 
-## 💻 Installation
+## 🌱  How to start this project
 
-1. `Fork` this repository to be able to save and commit your changes later.
-2.  Press the like button if you like it!  
-3.  Pick one of these two steps depending on your installation type:
-A. If you are using gitpod you can start this project by [clicking here](https://gitpod.io#https://github.com/breatheco-de/exercise-unit-test-with-jest).  
-B. If you are working locally follow this steps:
+This project comes with the necessary files to start working, but you have two options to start:
 
-### Only for local installations (Not using gitpod)
+a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-unit-test-with-jest.git
+
+b) You can clone this repository on your local computer:
+```sh
+$ git clone https://github.com/breatheco-de/exercise-unit-test-with-jest.git
+```
+Then follow this instructions:
 
 1. Download learnpack globally (if you don't have it already): `$ npm i learnpack -g`
 2. Download this learning package using learnpack: `$ learnpack install unit-test-with-jest`
