@@ -18,6 +18,8 @@ a) Use gitpod: open this link in your browser to clone it with gitpod: https://g
 b) You can clone this repository on your local computer:
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-unit-test-with-jest.git
+
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 ```
 Then follow this instructions:
 
@@ -32,7 +34,7 @@ We are going to be using the Jest library to build a program capable of converti
 
 | Function name     | Description                                                           |
 | ----------------- | --------------------------------------------------------------------- |
-| fromDollarToYen   | Receives a dollar amount and returns equivalent amount in Japan YEN   |
+| fromDollarToYen   | Receives a dollar amount and returns equivalent amount in Japan Yen  |
 | fromEuroToDollar  | Receives a Euro amount and returns equivalent amount in US Dollar     |
-| fromYanToPound    | Reveives a Yan amount and equivalent amount in England Pound          |
+| fromYanToPound    | Reveives a Yen amount and equivalent amount in England Pound          |
 
