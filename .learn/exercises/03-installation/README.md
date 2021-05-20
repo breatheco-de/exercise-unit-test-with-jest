@@ -25,7 +25,7 @@ Note: if you don't include `--save` it will not be installed properly.
 
 If your package was installed successfully you will find that:
 
-- There is a new folder in your root caled `./node_modules` 
+- There is a new folder in your root called `./node_modules` 
 - If you open your package.json file, you will find `jest` inside the `dependencies` object like this:
 
 ![Jest package](../../assets/jest-package.png)
