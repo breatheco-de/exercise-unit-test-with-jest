@@ -6,8 +6,8 @@ const fromEuroToDollar = function(valueInEuro){
 }
 const fromDollarToYen  = function(valueInDY){
     // convertimos el valor DE dolares a yen
-    let valueInDY=((1*1)/oneEuroIs.USD);
-    let valueyen= valueInDY * oneEuroIs.JPY;
+    var valuenDY=((1*1)/oneEuroIs.USD);
+    let valueyen= valuenDY * oneEuroIs.JPY;
     // retornamos el valor
     return valueyen;
 }
