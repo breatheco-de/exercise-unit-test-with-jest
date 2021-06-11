@@ -1,20 +1,24 @@
+let oneEuroIs = {
+    "JPY": 127.9, // japan yen
+    "USD": 1.2, // us dollar
+    "GBP": 0.8, // british pound
+}
+let valueInEuro=1;
 const fromEuroToDollar = function(valueInEuro){
     // convertimos el valor a dolares
     let valueInDollar = valueInEuro * oneEuroIs.USD
     // retornamos el valor
     return valueInDollar;
 }
-const fromDollarToYen  = function(valueInDY){
+const fromDollarToYen  = function(valueInDollar){
     // convertimos el valor DE dolares a yen
-    var valuenDY=((1*1)/oneEuroIs.USD);
-    let valueyen= valuenDY * oneEuroIs.JPY;
+    let valueyen= valueInDollar * oneEuroIs.JPY;
     // retornamos el valor
     return valueyen;
 }
-const fromYenToPound = function(valueInYP){
+const fromYenToPound = function(valueyen){
     // convertimos el valor de yen a libras
-    let valueInYP=((1*1)/oneEuroIs.JPY);
-    let value2 = valueInYP * oneEuroIs.GBP ;
+    let value2 = valueyen * oneEuroIs.GBP ;
     // retornamos el valor
     return value2;
 }
@@ -25,9 +29,10 @@ const sum = (a,b) => {
 }
 // solo un registro en consola para nosotros.
 console.log(sum(7,3));
+module.exports = { sum,fromEuroToDollar,fromDollarToYen,fromYenToPound};
 // exporta la función para usarla en otros archivos 
 // (similar a la palabra clave `export` cuando se usa webpack)
-module.exports = { sum,fromEuroToDollar,fromDollarToYen,fromYenToPound };
+//module.exports = { sum,fromEuroToDollar,fromDollarToYen,fromYenToPound };
 /*
 let oneEuroIs = {
     "JPY": 127.9, // japan yen
