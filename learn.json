@@ -11,5 +11,10 @@
 	"preview": "https://github.com/breatheco-de/exercise-unit-test-with-jest/blob/main/.learn/assets/preview.jpeg?raw=true",
 	"duration" : 16,
 	"technologies": ["javascript","jest","unit testing"],
-	"description" : "Give a series of exercises and solutions, create the unit tests to automaticaly grade the given solutions"
+	"description" : "Give a series of exercises and solutions, create the unit tests to automaticaly grade the given solutions",
+	"config": {
+		"editor": {
+		    "version": "1.0.70"
+		}
+	}
 }
