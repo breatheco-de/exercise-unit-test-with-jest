@@ -23,10 +23,9 @@ $ git clone https://github.com/breatheco-de/exercise-unit-test-with-jest.git
 ```
 Then follow this instructions:
 
-1. Download learnpack globally (if you don't have it already): `$ npm i learnpack -g`
-2. Download this learning package using learnpack: `$ learnpack download unit-test-with-jest`
-3. Get into the exercise folder: `$ cd exercise-unit-test-with-jest`
-4. Start the exercise: `$ learnpack start`
+1. Get into the exercise folder: `$ cd exercise-unit-test-with-jest`
+2. Download learnpack globally (if you don't have it already): `$ npm i learnpack -g`
+3. Start the exercise: `$ learnpack start`
 
 ## What is this exercise about?
 
