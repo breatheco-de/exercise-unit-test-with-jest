@@ -1,7 +1,7 @@
 # Unit testing with Jest
 
 ```
-Important: 💻  This exercise is interactive!
+Important: 💻  This exercise is interactive.
 Please follow the instructions.
 ```
 
