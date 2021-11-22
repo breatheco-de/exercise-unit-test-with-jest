@@ -13,13 +13,13 @@ Hoy usaremos el [jest framework](https://jestjs.io/) para crear nuestras primera
 
 Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
 
-a) Abrir este link con Gitpod en tu navegador: https://gitpod.io#https://github.com/breatheco-de/exercise-unit-test-with-jest.git
+a) Abrir este enlace con Gitpod en tu navegador: https://gitpod.io#https://github.com/breatheco-de/exercise-unit-test-with-jest.git
 
 b) Clonar este repositorio localmente en tu computador:
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-unit-test-with-jest.git
 ```
-💡 Important: Recuerda crear un nuevo repositorio, actualiza el remoto (`git remote set-url origin <your new url>`), y guarda tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+💡 Importante: Recuerda crear un nuevo repositorio, actualiza el remoto (`git remote set-url origin <your new url>`), y guarda tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
 Luego sigue las siguientes instrucciones:
 
@@ -28,7 +28,7 @@ Luego sigue las siguientes instrucciones:
 3. Entra a la carpeta del ejercicio: `$ cd exercise-unit-test-with-jest`
 4. Comienza el ejercicio: `$ learnpack start`
 
-## ¿SObre que trata este ejercicio?
+## ¿Sobre que trata este ejercicio?
 
 Usaremos la librería JEST para crear un programa capaz de convertir valores numéricos de una divisa a otra:
 
