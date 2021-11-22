@@ -1,6 +1,6 @@
 # `06` Archivo de prueba
 
-¡Asombroso! Nuestra función `sum` esta sumando números correctamente.
+¡Asombroso! Nuestra función `sum` está sumando números correctamente.
 
 Nos damos cuenta de eso porque somos humanos, y los humanos podemos entender que 7 + 3 = 10.
 
