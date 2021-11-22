@@ -18,4 +18,4 @@ $ node -v
 
 #### 💡 Ayuda:   
 
-Si estás utilizando Gitpod o VSCode, puedes abrir un nuevo terminal haciendo click en el menú superior `terminal -> new terminal`.
+Si estás utilizando Gitpod o VSCode, puedes abrir un nuevo terminal haciendo clic en el menú superior `terminal -> new terminal`.
