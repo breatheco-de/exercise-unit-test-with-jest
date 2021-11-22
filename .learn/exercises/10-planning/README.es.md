@@ -2,7 +2,7 @@
 
 El primer paso en cada aplicación es pensar sobre los requisitos del proyecto y cómo desarrollarlos.
 
-En este caso desarrllaremos un programa que convierte un valor numérico de una moneda a otra.
+En este caso desarrollaremos un programa que convierte un valor numérico de una moneda a otra.
 
 Por ejemplo:
 
@@ -27,6 +27,6 @@ Nuestro programa necesita las siguientes funciones para convertir `fromDollarToY
 
 | Función           | Entrada             | Salida                                      |
 | ----------------- | ------------------ | -------------------------------------------- |
-| fromDollarToYen   | monto en dólares   | monto equivalente en yenes janponeses        |
+| fromDollarToYen   | monto en dólares   | monto equivalente en yenes japoneses        |
 | fromEuroToDollar  | monto en euros     | monto equivalente en dólares estadounidenses |
 | fromYenToPound    | monto en yenes     | monto equivalente en Libras esterlinas       |
