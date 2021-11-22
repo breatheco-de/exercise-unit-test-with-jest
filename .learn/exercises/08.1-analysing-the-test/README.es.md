@@ -1,9 +1,9 @@
 # `08.1` Analizando la prueba
 
-¿Que acaba de suceder? Básicamente, cuando se ejecuta el comando `npm run test`, la computadora usará la libreria `jest`
+¿Que acaba de suceder? Básicamente, cuando se ejecuta el comando `npm run test`, la computadora usará la librería `jest`
 para escanear tus archivos en busca de archivos que contengan la palabra `test`, en nuestro caso teníamos un archivo llamado` test.js`.
 
-Después de que jest descubre tus archivos de prueba,este comenzará a ejecutar las funciones test () dentro de esos archivos.
+Después de que jest descubre tus archivos de prueba, este comenzará a ejecutar las funciones test () dentro de esos archivos.
 
 ### Acerca de la salida:
 
