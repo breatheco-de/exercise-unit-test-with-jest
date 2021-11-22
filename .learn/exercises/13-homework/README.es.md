@@ -4,7 +4,7 @@ Por favor, escribe las pruebas y la implementación para las dos funciones resta
 
 | Función           | Entrada             | Salida                                      |
 | ----------------- | ------------------ | -------------------------------------------- |
-| fromDollarToYen   | monto en dólares   | monto equivalente en yenes janponeses        |
+| fromDollarToYen   | monto en dólares   | monto equivalente en yenes japoneses        |
 | fromEuroToDollar  | monto en euros     | monto equivalente en dólares estadounidenses |
 | fromYenToPound    | monto en yenes     | monto equivalente en Libras esterlinas       |
 
