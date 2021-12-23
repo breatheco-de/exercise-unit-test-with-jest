@@ -14,7 +14,7 @@
 	"description" : "Give a series of exercises and solutions, create the unit tests to automaticaly grade the given solutions",
 	"config": {
 		"editor": {
-		    "version": "1.0.71"
+		    "version": "1.0.72"
 		}
 	}
 }
