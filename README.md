@@ -18,9 +18,9 @@ a) Use gitpod: open this link in your browser to clone it with gitpod: https://g
 b) You can clone this repository on your local computer:
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-unit-test-with-jest.git
-
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 ```
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
 Then follow this instructions:
 
 1. Get into the exercise folder: `$ cd exercise-unit-test-with-jest`
