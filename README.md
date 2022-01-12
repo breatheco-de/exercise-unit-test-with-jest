@@ -35,5 +35,5 @@ We are going to be using the Jest library to build a program capable of converti
 | ----------------- | --------------------------------------------------------------------- |
 | fromDollarToYen   | Receives a dollar amount and returns equivalent amount in Japan Yen  |
 | fromEuroToDollar  | Receives a Euro amount and returns equivalent amount in US Dollar     |
-| fromYenToPound    | Reveives a Yen amount and equivalent amount in England Pound          |
+| fromYenToPound    | Receives a Yen amount and equivalent amount in England Pound          |
 
