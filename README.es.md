@@ -34,7 +34,7 @@ Usaremos la librería JEST para crear un programa capaz de convertir valores num
 
 | Nombre Función    | Descripción                                                           |
 | ----------------- | --------------------------------------------------------------------- |
-| fromDollarToYen   | Recibe una monto en dólares y devuelve el monto equivalente en yenes japoneses. |
-| fromEuroToDollar  | Recibe una monto en euros y devuelve el monto equivalente en dólares estadounidenses.|
-| fromYanToPound    | Recibe una monto en Yen y devuelve el monto equivalente en libras esterlinas.  |
+| fromDollarToYen   | Recibe un monto en dólares y devuelve el monto equivalente en yenes japoneses. |
+| fromEuroToDollar  | Recibe un monto en euros y devuelve el monto equivalente en dólares estadounidenses.|
+| fromYanToPound    | Recibe un monto en Yen y devuelve el monto equivalente en libras esterlinas.  |
 
