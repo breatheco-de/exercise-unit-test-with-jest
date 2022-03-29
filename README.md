@@ -16,16 +16,23 @@ This project comes with the necessary files to start working, but you have two o
 a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-unit-test-with-jest.git
 
 b) You can clone this repository on your local computer:
+
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-unit-test-with-jest.git
 ```
+
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
 Then follow this instructions:
 
-1. Get into the exercise folder: `$ cd exercise-unit-test-with-jest`
-2. Download learnpack globally (if you don't have it already): `$ npm i learnpack -g`
-3. Start the exercise: `$ learnpack start`
+
+1. Download learnpack globally (if you don't have it already): `$ npm i learnpack -g`
+
+2. Install this learning package using learnpack: `$ learnpack install unit-test-with-jest` 
+
+3. Get into the exercise folder: `$ cd exercise-unit-test-with-jest`
+
+4. Start the exercise: `$ learnpack start`
 
 ## What is this exercise about?
 
