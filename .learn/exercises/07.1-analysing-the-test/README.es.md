@@ -1,4 +1,4 @@
-# `08.1` Analysing the test
+# `07.1` Analysing the test
 
 ¿Que acaba de suceder?
 

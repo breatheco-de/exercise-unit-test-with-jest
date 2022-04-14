@@ -1,4 +1,4 @@
-#   `11` Implementing the function
+#   `10` Implementing the function
 
 Now that the test is ready, we have to implement the function that is going to comply with that test.
 
