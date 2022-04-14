@@ -1,4 +1,4 @@
-# `10` Planning Our Functionalities
+# `09` Planning Our Functionalities
 
 El primer paso en cada aplicación es pensar sobre los requisitos del proyecto y cómo desarrollarlos.
 

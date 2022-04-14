@@ -1,4 +1,4 @@
-# `10` Planning our functionalities
+# `09` Planning our functionalities
 
 The first step in every application is to think about the project requirements and how to develop them.
 

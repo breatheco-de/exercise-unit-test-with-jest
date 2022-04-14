@@ -1,4 +1,4 @@
-#   `12` Implementing the function
+#   `11` Implementing the function
 
 Ahora que la prueba está lista, tenemos que implementar la función que deberá satisfacer esa prueba.
 
