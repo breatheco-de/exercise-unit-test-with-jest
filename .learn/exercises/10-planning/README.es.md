@@ -1,12 +1,10 @@
-# `10` Planificando nuestras funcionalidades
+# `10` Planning Our Functionalities
 
 El primer paso en cada aplicación es pensar sobre los requisitos del proyecto y cómo desarrollarlos.
 
 En este caso desarrollaremos un programa que convierte un valor numérico de una moneda a otra.
 
-Por ejemplo:
-
-Dado el siguiente objeto js con los valores de conversión de las monedas:
+Por ejemplo, dado el siguiente objeto js con los valores de conversión de las monedas:
 
 ```js
 // one euro is:

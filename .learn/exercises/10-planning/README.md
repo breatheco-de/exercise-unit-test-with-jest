@@ -4,9 +4,7 @@ The first step in every application is to think about the project requirements a
 
 In this case we are going to develop a program that can convert a numeric value from one currency to another.
 
-For example:
-
-Given the following js object with the currency value conversion:
+For example, given the following js object with the currency value conversion:
 
 ```js
 // one euro is:

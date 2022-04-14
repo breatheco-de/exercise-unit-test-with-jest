@@ -1,4 +1,4 @@
-# `11` La primera prueba
+# `11` The first test
 
 Estos son los ratios de conversión entre **Euro €** y otras monedas:
 
@@ -22,7 +22,6 @@ De acuerdo con nuestras funcionalidades planificadas, necesitaremos escribir pru
 Por ejemplo, la prueba que sirve para asegurarnos de que la función `fromEuroToDollar` ha sido correctamente implementada será algo como esto:
 
 ```js
-
 test("One euro should be 1.206 dollars", function(){
     // importo la funcion desde app.js
     const { fromEuroToDollar } = require('./app.js')
@@ -32,9 +31,12 @@ test("One euro should be 1.206 dollars", function(){
 })
 ```
 
-Más información : https://jestjs.io/docs/getting-started
-
-## 📝 Instrucciones
+## 📝 Instrucciones:
 
 1. Copia y pega este código de prueba al final del archivo test.js.
+
 2. Ejecuta las pruebas nuevamente escribiendo `npm run test` en la línea de comandos.
+
+## 💡 Pista:
+
++ Para más información : https://jestjs.io/docs/getting-started

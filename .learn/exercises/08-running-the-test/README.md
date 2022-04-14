@@ -10,19 +10,19 @@ Before running our test we have to update your package.json file to specify the 
 }
 ```
 
-Note: Open the package.json and look for the "test" scripts.
+Note: open the package.json and look for the "test" scripts.
 
 ![script test](../../assets/script-test.gif)
 
-## 📝 Instructions
+## 📝 Instructions:
 
-Type on the console the following command:
+1. Type on the console the following command:
 
 ```
 $ npm run test
 ```
 
-## ✅ Check for success
+## Expected result:
 
 If everything is ok, you should get a console output like this:
 
