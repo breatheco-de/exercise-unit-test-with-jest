@@ -1,10 +1,12 @@
-# `5` Nuestra primera función
+# `4` Our first function
 
-Para crear un pequeño ejemplo, queremos que llenes el contenido de `app.js` con una función 'sum' que sume dos números dados y vamos a desarrollar (eventualmente) las pruebas que aseguren que esa función funciona perfectamente.
+Para crear un pequeño ejemplo, queremos que llenes el contenido de `app.js` con la función: ´`sum`´, que sume dos números dados. 
 
-## 📝 Instrucciones
+¡Descuida! Vamos a desarrollar (eventualmente) las pruebas que aseguren que esa función funciona perfectamente.
 
-Reemplaza todo el contenido del archivo `app.js` con la siguiente función:
+## 📝 Instrucciones:
+
+1. Reemplaza todo el contenido del archivo `app.js` con la siguiente función:
 
 ```js
 // esta es mi función que suma dos números
@@ -20,7 +22,7 @@ console.log(sum(7,3))
 module.exports = { sum };
 ```
 
-## ✅ Verificar el éxito del Proceso
+## Resultado esperado:
 
 Escribe en la consola el siguiente comando para ejecutar tu aplicación:
 
