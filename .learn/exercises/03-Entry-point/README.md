@@ -1,6 +1,6 @@
 # `03` Entry Point
 
-Ok, we have successfully installed jest! and we are going to use it soon...
+Ok, we have successfully installed jest! And we are going to use it soon...
 
 But first, we  have to create a file that will represent the entry point of our application.
 

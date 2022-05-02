@@ -24,7 +24,7 @@ $ npm install jest --save
 
 Nota: si no incluyes `--save`, no se instalará correctamente.
 
-## Reseltado esperado:
+## Resultado esperado:
 
 Si tu paquete se instaló correctamente, encontrarás que:
 

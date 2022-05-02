@@ -6,15 +6,15 @@
 
 ## 💬 Fundamentos:
 
-1.  Jest es un marco de prueba de JavaScriptt, diseñado principalmente para trabajar con aplicaciones web basadas en React y React Native.
+1. Jest es un marco de prueba de JavaScript, diseñado principalmente para trabajar con aplicaciones web basadas en React y React Native.
 
-2.  Algunas características de Jest son:
+2. Algunas características de Jest son:
 
-+ Es fácil para configurar.
+    + Es fácil para configurar.
 
-+ Es muy rápido.
+    + Es muy rápido.
 
-+ Proporciona una excelente documentación con muchos ejemplos.
+    + Proporciona una excelente documentación con muchos ejemplos.
 
 ## Lecturas Útiles:
 

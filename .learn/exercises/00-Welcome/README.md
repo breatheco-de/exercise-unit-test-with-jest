@@ -10,11 +10,11 @@ We are very excited to have you here! 🎉 😂
 
 2. Some features of Jest are:
 
-+ Easy configuration.
+    + Easy configuration.
 
-+ It is super fast.
+    + It is super fast.
 
-+ Provides excellent documentation with plenty of examples. 
+    + Provides excellent documentation with plenty of examples. 
 
 ## Useful Readings:
 

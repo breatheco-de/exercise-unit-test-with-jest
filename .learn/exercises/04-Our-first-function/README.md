@@ -1,4 +1,4 @@
-# `4` Our first function
+# `04` Our first function
 
 To create a small example, we want you to fill the content of `app.js` with the '`sum`' function, that adds two given numbers.
 
