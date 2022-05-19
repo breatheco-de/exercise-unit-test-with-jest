@@ -1,4 +1,4 @@
-# `07` Tu primera prueba
+# `07` Your first test
 
 Dentro del archivo `test.js`, agrega el siguiente código:
 

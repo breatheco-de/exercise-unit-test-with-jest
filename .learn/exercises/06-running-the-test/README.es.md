@@ -1,4 +1,4 @@
-# `08` Running the test
+# `06` Running the test
 
 Antes de ejecutar nuestra prueba, tenemos que actualizar tu archivo package.json para especificar el comando `test` con la palabra` jest` de la siguiente manera:
 
