@@ -1,25 +1,28 @@
-# `04` Punto de Entrada
+# `03` Entry Point
 
-Ok, hemos instalado Jest exitosamente, lo usaremos pronto,
-pero primero también tenemos que crear un archivo que representará el punto de entrada de nuestra aplicación.
+¡Ok, ya hemos instalado Jest exitosamente! y lo usaremos pronto... 
 
-## 📝 Instrucciones
+Pero primero, tenemos que crear un archivo que representará el punto de entrada de nuestra aplicación.
 
-Crea un archivo `app.js` en la raíz de tu proyecto que contenga el siguiente contenido:
+## 📝 Instrucciones:
+
+1. Crea un archivo `app.js` en la raíz de tu proyecto que contenga el siguiente contenido:
 
 ```js
 // app.js file content
 console.log("Hello World")
 ```
 
-## ✅ Verificar el éxito del proceso
+## Resultado esperado: 
 
-Corre el siguiente comando en tu consola/terminal:
+Para verificar que el proceso haya sido exitoso, corre el siguiente comando en tu consola/terminal:
 
 ```
 $ node app.js
 ```
 
-Nota: debería imprimir "Hola mundo" en la consola de esta manera:
+## 💡 Pista:
+
++ Debería imprimir "Hello world" en la consola de esta manera:
 
 ![Hello world](../../assets/01-1hello-world.png)

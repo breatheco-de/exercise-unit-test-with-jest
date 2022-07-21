@@ -1,9 +1,10 @@
-# `07` Your first test
+# `06` Your first test
 
-Inside the `test.js` file, add the following code:
+## 📝 Instructions:
+
+1. Inside the `test.js` file, add the following code:
 
 ```js
-
 // import the function sum from the app.js file
 const { sum } = require('./app.js');
 
@@ -17,4 +18,6 @@ test('adds 14 + 9 to equal 23', () => {
 });
 ```
 
-Note: Read the comments in the code so you can understand what the code is doing.
+## 💡 Hint:
+
++ Read the comments in the code so you can understand what the code is doing.
