@@ -1,6 +1,6 @@
 # `11` The first test
 
-This are the convertion ratios between **Euro €** and other currencies today:
+This are the conversion ratios between **Euro €** and other currencies today:
 
 ```js
 // one euro is:
