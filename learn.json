@@ -1,20 +1,27 @@
 {
-	"title" : "Your first unit tests with Javascript's Jest Framework",
-	"slug" : "unit-test-with-jest",
+	"title": "Your first unit tests with Javascript's Jest Framework",
+	"slug": "unit-test-with-jest",
 	"status": "draft",
 	"solution": "https://github.com/breatheco-de/exercise-unit-test-with-jest/tree/solution",
-    	"repository": "https://github.com/breatheco-de/exercise-unit-test-with-jest",
-    	"grading": "incremental",
-    	"skills": ["unit-testing", "test-driven-dev"],
-    	"language": "node",
+	"repository": "https://github.com/breatheco-de/exercise-unit-test-with-jest",
+	"grading": "incremental",
+	"skills": [
+		"unit-testing",
+		"test-driven-dev"
+	],
+	"language": "node",
 	"difficulty": "junior",
 	"preview": "https://github.com/breatheco-de/exercise-unit-test-with-jest/blob/main/.learn/assets/preview.jpeg?raw=true",
-	"duration" : 16,
-	"technologies": ["javascript","jest","unit testing"],
-	"description" : "Give a series of exercises and solutions, create the unit tests to automaticaly grade the given solutions",
-	
-		"editor": {
-		    "version": "1.0.73"
-		}
-	
+	"duration": 16,
+	"technologies": [
+		"javascript",
+		"jest",
+		"unit testing"
+	],
+    "projectType": "project",
+    "autoPlay": true,
+	"description": "Give a series of exercises and solutions, create the unit tests to automaticaly grade the given solutions",
+	"editor": {
+		"version": "1.0.73"
+	}
 }
