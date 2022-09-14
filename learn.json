@@ -18,7 +18,7 @@
 		"jest",
 		"unit testing"
 	],
-    "projectType": "project",
+    "projectType": "tutorial",
     "autoPlay": true,
 	"description": "Give a series of exercises and solutions, create the unit tests to automaticaly grade the given solutions",
 	"editor": {
