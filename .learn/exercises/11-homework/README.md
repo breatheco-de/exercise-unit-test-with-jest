@@ -1,6 +1,8 @@
-# `13` Homework and instructions
+# `11` Homework 
 
-Please write the tests and implementation for the two remaining functions: `fromDollarToYen` and `fromYenToPound`
+## 📝 Instructions:
+
+1. Please write the tests and implementation for the two remaining functions: `fromDollarToYen` and `fromYenToPound`
 
 | Function name     | Input             | Output                            |
 | ----------------- | ----------------- | ----------------------------------|
@@ -8,7 +10,9 @@ Please write the tests and implementation for the two remaining functions: `from
 | fromEuroToDollar  | a Euro amount     | equivalent amount in US Dollar    |
 | fromYenToPound    | a Yen amount      | equivalent amount in England Pound|
 
-Remember these are the currency convertion values:
+## 💡 Hint:
+
++ Remember these are the currency convertion values:
 
 ```js
 // one euro is:

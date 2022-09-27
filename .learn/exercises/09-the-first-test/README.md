@@ -1,4 +1,4 @@
-# `11` The first test
+# `09` The first test
 
 This are the conversion ratios between **Euro €** and other currencies today:
 
@@ -19,7 +19,7 @@ According to our planned functionalities we will need to write tests to make sur
 | fromEuroToDollar  | a Euro amount     | equivalent amount in US Dollar    |
 | fromYanToPound    | a Yan amount      | equivalent amount in England Pound|
 
-For example the test function to make sure that the function `fromEuroToDollar` has been successfully implemented will be something like this:
+For example, the test function to make sure that the function `fromEuroToDollar` has been successfully implemented will be something like this:
 
 ```js
 
@@ -38,7 +38,12 @@ test("One euro should be 1.206 dollars", function(){
 })
 ```
 
-## 📝 Instructions
+## 📝 Instructions:
 
 1. Copy and paste this test code at the end of the test.js file.
+
 2. Run the tests again by typing `npm run test` on your command line.
+
+## 💡 Hint:
+
++ For more information : https://jestjs.io/docs/getting-started

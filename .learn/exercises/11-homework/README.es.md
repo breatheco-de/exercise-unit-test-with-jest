@@ -1,6 +1,8 @@
-# `13` Continua desarrollando tus pruebas!
+# `11` Homework 
 
-Por favor, escribe las pruebas y la implementación para las dos funciones restantes: `fromDollarToYen` y `fromYenToPound`
+## 📝 Instrucciones:
+
+1. Por favor, escribe las pruebas y la implementación para las dos funciones restantes: `fromDollarToYen` y `fromYenToPound`
 
 | Función           | Entrada             | Salida                                      |
 | ----------------- | ------------------ | -------------------------------------------- |
@@ -8,7 +10,9 @@ Por favor, escribe las pruebas y la implementación para las dos funciones resta
 | fromEuroToDollar  | monto en euros     | monto equivalente en dólares estadounidenses |
 | fromYenToPound    | monto en yenes     | monto equivalente en Libras esterlinas       |
 
-Recuerda que estas son las tasas de conversión de las monedas:
+## 💡 Pista:
+
++ Recuerda que estas son las tasas de conversión de las monedas:
 
 ```js
 // one euro is:

@@ -1,12 +1,10 @@
-# `10` Planning our functionalities
+# `08` Planning our functionalities
 
 The first step in every application is to think about the project requirements and how to develop them.
 
 In this case we are going to develop a program that can convert a numeric value from one currency to another.
 
-For example:
-
-Given the following js object with the currency value conversion:
+For example, given the following js object with the currency value conversion:
 
 ```js
 // one euro is:

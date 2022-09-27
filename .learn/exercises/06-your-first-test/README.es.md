@@ -20,4 +20,4 @@ test('adds 14 + 9 to equal 23', () => {
 
 ## 💡 Pista:
 
-+ Lee los comentarios en el código para poder comprender lo que hace el código.
++ Lee los comentarios en el código para poder comprender lo que hace el código. 

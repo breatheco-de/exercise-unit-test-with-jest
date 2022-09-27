@@ -1,7 +1,10 @@
-#   `12` Implementando la función
+# `10` Implementing the function
 
 Ahora que la prueba está lista, tenemos que implementar la función que deberá satisfacer esa prueba.
+
 La función debe ser implementada en app.js porque es parte de nuestra aplicación, no de nuestras pruebas.
+
+### Ejemplo:
 
 Coloca el siguiente código al **comienzo** de tu app.js:
 
@@ -22,16 +25,16 @@ Asegúrate de actualizar el `module.exports` ubicado al final del archivo de est
 module.exports = { sum, fromEuroToDollar }
 ```
 
-## 📝 Instrucciones
+## 📝 Instrucciones:
 
-Ejecuta las pruebas nuevamente escribiendo lo siguiente en el terminal:
+1. Ejecuta las pruebas nuevamente escribiendo lo siguiente en el terminal:
 
 ```bash
 $ npm run test
-
 ```
 
-## ✅ Prueba de éxito
+## Resultado esperado:
+
 Después de ejecutar tu prueba deberías tener un reporte exitoso con dos pruebas exitosas como este:
 
 ![12-success-test](../../assets/12-success-test.png)
