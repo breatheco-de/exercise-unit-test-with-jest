@@ -10,6 +10,7 @@
 		"test-driven-dev"
 	],
 	"language": "node",
+	"projectType": "tutorial",
 	"difficulty": "junior",
 	"preview": "https://github.com/breatheco-de/exercise-unit-test-with-jest/blob/main/.learn/assets/preview.jpeg?raw=true",
 	"duration": 16,
