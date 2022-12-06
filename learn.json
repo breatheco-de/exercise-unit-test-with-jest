@@ -20,8 +20,7 @@
 		"jest",
 		"unit testing"
 	],
-    "projectType": "tutorial",
-    "autoPlay": true,
+  "autoPlay": true,
 	"description": "Give a series of exercises and solutions, create the unit tests to automaticaly grade the given solutions",
 	"editor": {
 		"version": "1.0.73"
