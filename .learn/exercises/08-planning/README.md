@@ -25,6 +25,6 @@ Our program needs to have functions to convert `fromDollarToYen`, `fromEuroToDol
 
 | Function name     | Input             | Output                            |
 | ----------------- | ----------------- | ----------------------------------|
-| fromDollarToYen   | a dollar amount   | equivalent amount in Japan YEN    |
+| fromDollarToYen   | a dollar amount   | equivalent amount in Japan Yen    |
 | fromEuroToDollar  | a Euro amount     | equivalent amount in US Dollar    |
-| fromYanToPound    | a Yan amount      | equivalent amount in England Pound|
+| fromYenToPound    | a Yen amount      | equivalent amount in England Pound|
