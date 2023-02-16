@@ -21,4 +21,3 @@ let oneEuroIs = {
     "USD": 1.2, // us dollar
     "GBP": 0.8, // british pound
 }
-```
