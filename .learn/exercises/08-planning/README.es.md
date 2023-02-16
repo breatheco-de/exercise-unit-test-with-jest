@@ -21,7 +21,7 @@ Puedes tener seguridad de que 1 EUR es 1.2 USD:
 1 EUR (Euro) = 1.2 USD (US Dollar)
 ```
 
-Nuestro programa necesita las siguientes funciones para convertir `fromDollarToYen`, `fromEuroToDollar` y `fromYanToPound`.
+Nuestro programa necesita las siguientes funciones para convertir `fromDollarToYen`, `fromEuroToDollar` y `fromYenToPound`.
 
 | Función           | Entrada             | Salida                                      |
 | ----------------- | ------------------ | -------------------------------------------- |
