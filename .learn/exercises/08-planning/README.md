@@ -21,10 +21,10 @@ You can be confident that 1 EUR is 1.2 USD:
 1 EUR (Euro) = 1.2 USD (US Dollar)
 ```
 
-Our program needs to have functions to convert `fromDollarToYen`, `fromEuroToDollar` and `fromYanToPound`.
+Our program needs to have functions to convert `fromDollarToYen`, `fromEuroToDollar` and `fromYenToPound`.
 
 | Function name     | Input             | Output                            |
 | ----------------- | ----------------- | ----------------------------------|
 | fromDollarToYen   | a dollar amount   | equivalent amount in Japan YEN    |
 | fromEuroToDollar  | a Euro amount     | equivalent amount in US Dollar    |
-| fromYanToPound    | a Yan amount      | equivalent amount in England Pound|
+| fromYenToPound    | a Yen amount      | equivalent amount in England Pound|
