@@ -17,7 +17,7 @@ According to our planned functionalities we will need to write tests to make sur
 | ----------------- | ----------------- | ----------------------------------|
 | fromDollarToYen   | a dollar amount   | equivalent amount in Japan YEN    |
 | fromEuroToDollar  | a Euro amount     | equivalent amount in US Dollar    |
-| fromYanToPound    | a yen amount      | equivalent amount in England Pound|
+| fromYenToPound    | a yen amount      | equivalent amount in England Pound|
 
 For example, the test function to make sure that the function `fromEuroToDollar` has been successfully implemented will be something like this:
 
