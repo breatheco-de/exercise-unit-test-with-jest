@@ -1,11 +1,13 @@
+<!--hide-->
 # Unit testing with Jest
+<!--endhide-->
 
 ```
 Important: 💻  This exercise is interactive.
 Please follow the instructions.
 ```
 
-Most developers today are required not only to write code, but they also need to write code to test their own code 😱, yes.. really.
+Most developers today are required not only to write code, but also need to write code to test their own code 😱, yes... really.
 
 Today we are going to be using the [jest framework](https://jestjs.io/) to create our first tests.
 
@@ -21,7 +23,7 @@ $ git clone https://github.com/breatheco-de/exercise-unit-test-with-jest.git
 ```
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
-Then follow this instructions:
+Then follow these instructions:
 
 1. Get into the exercise folder: `$ cd exercise-unit-test-with-jest`
 2. Download learnpack globally (if you don't have it already): `$ npm i learnpack -g`

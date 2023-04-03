@@ -1,4 +1,6 @@
+<!--hide-->
 # Prueba Unitaria con Jest
+<!--endhide-->
 
 ```
 Importante: 💻  Este ejercicio es interactivo!
