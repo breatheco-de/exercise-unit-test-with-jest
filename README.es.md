@@ -1,11 +1,8 @@
-<!--hide-->
+<!-- hide -->
 # Prueba Unitaria con Jest
-<!--endhide-->
+<!-- endhide -->
 
-```
-Importante: 💻  Este ejercicio es interactivo!
-Sigue las instrucciones.
-```
+> Importante: 💻  Este ejercicio es interactivo! Sigue las instrucciones.
 
 La mayoría de los desarrolladores hoy en día no solo deben escribir código, sino que también deben escribir código para probar su propio código 😱, sí ... de verdad.
 
