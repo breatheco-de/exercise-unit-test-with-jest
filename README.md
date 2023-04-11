@@ -2,10 +2,7 @@
 # Unit testing with Jest
 <!--endhide-->
 
-```
-Important: 💻  This exercise is interactive.
-Please follow the instructions.
-```
+> Important: 💻  This exercise is interactive. Please follow the instructions.
 
 Most developers today are required not only to write code, but also need to write code to test their own code 😱, yes... really.
 
