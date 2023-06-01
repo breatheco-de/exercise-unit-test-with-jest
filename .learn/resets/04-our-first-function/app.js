@@ -11,24 +11,26 @@ let oneEuroIs = {
 }
 
 
-// declaramos una funcion con el mismo nombre "formEuroToDollar"
 const fromEuroToDollar = function(valueInEuro){
+    // convertimos el valor a dolares
     let valueInDollar = valueInEuro * 1.2;
+    // retornamos el valor
     return valueInDollar;
 }
 
-const fromDollarToYen = function(valueInDollar){
-    valueInDollar = oneEuroIs.USD;
-    let valueInYen = valueInDollar * 127.9;
+const fromDollarToYen  = function(valueInDollar){
+    // convertimos el valor a Yenes
+    valueInDollar = 1.2;
+    let valueInYen = valueInDollar * 153.48;
+    // retornamos el valor
     return valueInYen;
 }
 
-const fromYentoPound = function(valueInYen){
-    valueInYen = oneEuroIs.JPY
+const fromYentoPound = function(valueInYen) {
+    valueInYen = 127.9;
     let valueInPound = valueInYen * 0.8;
     return valueInPound;
 }
-
 
 
 module.exports = { sum, fromEuroToDollar, fromDollarToYen, fromYentoPound };
