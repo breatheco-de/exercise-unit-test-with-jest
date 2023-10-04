@@ -39,10 +39,8 @@ test("One euro should be 1.07 dollars", function() {
 
 ## 📝 Instrucciones:
 
-1. Copia y pega este código de prueba al final del archivo `test.js`.
-
-2. Ejecuta las pruebas nuevamente escribiendo `npm run test` en la línea de comandos.
+1. Copia y pega este código de testeo al final del archivo `test.js` y sigue al siguiente ejercicio.
 
 ## 💡 Pista:
 
-+ Para más información: https://jestjs.io/docs/getting-started
++ Si quieres detenerte para leer un poco: https://jestjs.io/docs/getting-started
