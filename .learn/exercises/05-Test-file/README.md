@@ -4,7 +4,7 @@ Amazing! Our `sum` function is summing numbers correctly.
 
 We realize that because we are humans, and humans can understand that 7 + 3 = 10.
 
-The sum function receives two numbers: `a = 7` and `b = 3`, and returns `10`. We see it on the console because we console.log it.
+The `sum` function receives two numbers: `a = 7` and `b = 3`, and returns `10`. We see it on the console because we console.log it.
 
 ## 📝 Instructions:
 
