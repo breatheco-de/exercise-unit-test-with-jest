@@ -1,6 +1,6 @@
 # `07` Running the test
 
-Before running our tests we have to update our package.json file to specify the `test` command with the word `jest` like this:
+Before running our test, we have to update our `package.json` file to specify the `test` command with the word `jest` like this:
 
 ```json
 {
