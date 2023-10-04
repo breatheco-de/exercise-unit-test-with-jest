@@ -1,49 +1,48 @@
 # `09` The first test
 
-This are the conversion ratios between **Euro €** and other currencies today:
+These are the conversion ratios between Euro and other currencies today:
 
 ```js
-// one euro is:
+// One euro is:
 let oneEuroIs = {
-    "JPY": 127.9, // japan yen
-    "USD": 1.2, // us dollar
-    "GBP": 0.8, // british pound
+    "JPY": 156.5, // japan yen
+    "USD": 1.07, // us dollar
+    "GBP": 0.87, // british pound
 }
 ```
 
-According to our planned functionalities we will need to write tests to make sure these functions work properly:
+According to our planned functionalities, we will need to write tests to make sure these functions work properly:
 
 | Function name     | Input             | Output                            |
 | ----------------- | ----------------- | ----------------------------------|
-| fromDollarToYen   | a dollar amount   | equivalent amount in Japan YEN    |
+| fromDollarToYen   | a Dollar amount   | equivalent amount in Japan YEN    |
 | fromEuroToDollar  | a Euro amount     | equivalent amount in US Dollar    |
-| fromYenToPound    | a yen amount      | equivalent amount in England Pound|
+| fromYenToPound    | a Yen amount      | equivalent amount in British Pound|
 
-For example, the test function to make sure that the function `fromEuroToDollar` has been successfully implemented will be something like this:
+For example, the test function to make sure that the function `fromEuroToDollar` has been successfully implemented. It is something like this:
 
 ```js
-
-test("One euro should be 1.206 dollars", function(){
-    //import the function from app.js
+test("One euro should be 1.07 dollars", function(){
+    // Import the function from app.js
     const { fromEuroToDollar } = require('./app.js')
 
-    // use the function like its suppoed to be used
+    // Use the function like its supposed to be used
     const dollars = fromEuroToDollar(3.5)
 
-    // if 1 euro are 1.206 dollars, then 3.5 euros should be (3.5 * 1.2)
-    const expected = 3.5 * 1.2; 
+    // If 1 euro is 1.07 dollars, then 3.5 euros should be (3.5 * 1.07)
+    const expected = 3.5 * 1.07; 
     
-    // this is the comparison for the unit test
-     expect(fromEuroToDollar(3.5)).toBe(4.2); //1 euro are 1.2 dolares, then 3.5 euros should be = (3.5 * 1.2)
+    // This is the comparison for the unit test
+     expect(fromEuroToDollar(3.5)).toBe(4.2); // 1 euro is 1.2 dollars, then 3.5 euros should be = (3.5 * 1.2)
 })
 ```
 
 ## 📝 Instructions:
 
-1. Copy and paste this test code at the end of the test.js file.
+1. Copy and paste this test code at the end of the `test.js` file.
 
 2. Run the tests again by typing `npm run test` on your command line.
 
 ## 💡 Hint:
 
-+ For more information : https://jestjs.io/docs/getting-started
++ For more information: https://jestjs.io/docs/getting-started
