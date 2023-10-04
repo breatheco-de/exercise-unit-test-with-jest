@@ -12,7 +12,7 @@ Before running our test, we have to update our `package.json` file to specify th
 
 Note: open the `package.json` and look for the "test" scripts.
 
-![replace in script test](../../assets/script-test.gif)
+![replace in scripts test](../../assets/script-test.gif)
 
 ## 📝 Instructions:
 
