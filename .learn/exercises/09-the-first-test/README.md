@@ -39,7 +39,9 @@ test("One euro should be 1.07 dollars", function() {
 
 ## 📝 Instructions:
 
-1. Copy and paste this test code at the end of the `test.js` file and go to the next exercise.
+1. Copy and paste this test code at the end of the `test.js`.
+
+2. You can run the tests again by typing `npm run test` on your command line. It will fail though, we still need to implement the function `fromEuroToDollar`.
 
 ## 💡 Hint:
 
