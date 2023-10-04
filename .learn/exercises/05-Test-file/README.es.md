@@ -4,7 +4,7 @@
 
 Nos damos cuenta de eso porque somos humanos, y los humanos podemos entender que 7 + 3 = 10.
 
-La función 'sum' recibe dos números: `a = 7` y` b = 3`, y nos devuelve `10`. Lo vemos en la consola porque pedimos un registro con console.log.
+La función `sum` recibe dos números: `a = 7` y` b = 3`, y nos devuelve `10`. Lo vemos en la consola porque pedimos un registro con console.log.
 
 ## 📝 Instrucciones:
 
