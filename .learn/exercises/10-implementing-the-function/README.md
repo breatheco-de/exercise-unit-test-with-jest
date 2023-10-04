@@ -4,24 +4,24 @@ Now that the test is ready, we have to implement the function that is going to c
 
 The function has to be implemented in app.js because it is a part of our application, not of our tests.
 
-### Example:
+## 📎 Example:
 
 Place the following code at the **beginning** of your app.js:
 
 ```js
-// we declare the function with the exact name "fromEuroToDollar"
-const fromEuroToDollar = function(valueInEuro){
-    // convert the given valueInEuro to dollars
-    let valueInDollar = valueInEuro * 1.2;
-    //return the dollar value
+// We declare the function with the exact name "fromEuroToDollar"
+const fromEuroToDollar = function(valueInEuro) {
+    // Convert the given valueInEuro to dollars
+    let valueInDollar = valueInEuro * 1.07;
+    // return the dollar value
     return valueInDollar;
 }
 ```
 
-Make sure to update the `module.exports` located at the end of file to the following:
+Make sure to update the `module.exports` located at the end of the file to the following:
 
 ```js
-// we include fromEuroToDollar here as well because it needs to be exported
+// We include fromEuroToDollar here as well because it needs to be exported
 module.exports = { sum, fromEuroToDollar }
 ```
 
@@ -33,7 +33,7 @@ module.exports = { sum, fromEuroToDollar }
 $ npm run test
 ```
 
-## Expected result:
+## 💻 Expected result:
 
 After running the test, you should see 2 successful tests on the console:
 
