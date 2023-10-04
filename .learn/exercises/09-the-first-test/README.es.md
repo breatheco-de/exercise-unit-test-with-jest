@@ -41,6 +41,8 @@ test("One euro should be 1.07 dollars", function() {
 
 1. Copia y pega este código de testeo al final del archivo `test.js` y sigue al siguiente ejercicio.
 
+2. Puedes ejecutar las pruebas nuevamente escribiendo `npm run test` en la línea de comandos. Aunque fallará, ya que aún debemos implementar la función `fromEuroToDollar`
+
 ## 💡 Pista:
 
 + Si quieres detenerte para leer un poco: https://jestjs.io/docs/getting-started
