@@ -28,13 +28,13 @@ We are very excited to have you here! 🎉 😂
 
 ## Goal of the day:
 
-Today you will be creating a small unit converter in node.js (JavaScript) using Test Driven Development.
+Today you will be creating a small unit converter in Node.js (JavaScript) using Test Driven Development.
 
 Test driven development means that we will develop the tests first, and the functionalities later.
 
 ## Requirements:
 
-1. Before starting to code our project, let's make sure we have node version 12+, you can type on your terminal the following command: `$ node -v` and it will return your current node version.
+1. Before starting to code our project, let's make sure we have Node version 12+, you can type on your terminal the following command: `$ node -v` and it will return your current Node version.
 
 2. Open a new terminal window and write the following command on your terminal: 
 
