@@ -28,11 +28,11 @@ We are very excited to have you here! 🎉 😂
 
 ## Goal of the day:
 
-Today you will be creating a small unit converter in node.js (javascript) using Test Driven Development.
+Today you will be creating a small unit converter in node.js (JavaScript) using Test Driven Development.
 
 Test driven development means that we will develop the tests first, and the functionalities later.
 
-### Requirements:
+## Requirements:
 
 1. Before starting to code our project lets make sure we have node version 12+: You can type on your terminal the following command: `$ node -v` and it will return your current node version.
 
@@ -42,19 +42,19 @@ Test driven development means that we will develop the tests first, and the func
 $ node -v
 ```
 
-##  🔎 Important: 
+## 🔎 Important: 
 
-+ If you are using Gitpod or VSCode you can open a new terminal by clicking on the top menu `terminal -> new terminal`.
++ If you are using VSCode you can open a new terminal by clicking on the top menu `terminal -> new terminal`.
 
 ## Contributors:
 
 Thanks to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
-1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) :computer: (idea) 🤔, (build-tests) :warning:, (pull-request-review) :eyes: (build-tutorial) :white_check_mark: (documentation) :book:
+1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) 💻, (idea) 🤔, (build-tests) ⚠️, (pull-request-review) 👀, (build-tutorial) ✅, (documentation) 📖
 
-2. [Paolo Lucano (plucodev)](https://github.com/plucodev), contribution: (coder), (build-tests) :warning:
+2. [Paolo Lucano (plucodev)](https://github.com/plucodev), contribution: (coder) 💻, (build-tests) ⚠️
 
-3. [Marco Gómez (marcogonzalo)](https://github.com/marcogonzalo), contribution: (translator) :earth_africa:
+3. [Marco Gómez (marcogonzalo)](https://github.com/marcogonzalo), contribution: (translator) 🌎
 
 This project follows these specifications: [all-contributors](https://github.com/kentcdodds/all-contributors)
 
