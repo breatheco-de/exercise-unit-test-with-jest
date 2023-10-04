@@ -34,7 +34,7 @@ Test driven development means that we will develop the tests first, and the func
 
 ## Requirements:
 
-1. Before starting to code our project lets make sure we have node version 12+: You can type on your terminal the following command: `$ node -v` and it will return your current node version.
+1. Before starting to code our project, let's make sure we have node version 12+, you can type on your terminal the following command: `$ node -v` and it will return your current node version.
 
 2. Open a new terminal window and write the following command on your terminal: 
 
