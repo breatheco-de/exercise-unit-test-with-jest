@@ -28,13 +28,13 @@
 
 ## Objetivo del día:
 
-Hoy vamos a crear un convertidor de unidades en node.js (JavaScript) utilizando Test Driven Development.
+Hoy vamos a crear un convertidor de unidades en Node.js (JavaScript) utilizando Test Driven Development.
 
 Test driven development significa que primero desarrollaremos las pruebas y luego las funcionalidades.
 
 ## Requerimientos:
 
-1. Antes de comenzar a programar en nuestro proyecto, vamos a asegurarnos de que tenemos la versión de node 12+, puedes escribir en tu terminal el siguiente comando: `$ node -v` y te mostrará tu versión de node actual.
+1. Antes de comenzar a programar en nuestro proyecto, vamos a asegurarnos de que tenemos la versión de Node 12+, puedes escribir en tu terminal el siguiente comando: `$ node -v` y te mostrará tu versión de Node actual.
 
 2. Abre una nueva ventana del terminal y escribe el siguiente comando en tu terminal:
 
