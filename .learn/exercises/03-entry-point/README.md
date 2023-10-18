@@ -1,6 +1,6 @@
 # `03` Entry Point
 
-Ok, we have successfully installed jest! And we are going to use it soon...
+Ok, we have successfully installed Jest! And we are going to use it soon...
 
 But first, we  have to create a file that will represent the entry point of our application.
 
@@ -13,11 +13,11 @@ But first, we  have to create a file that will represent the entry point of our 
 console.log("Hello World")
 ```
 
-## Expected result:
+## 💻 Expected result:
 
 To verify that the result has been successful, run the following command on your console:
 
-```
+```bash
 $ node app.js
 ```
 

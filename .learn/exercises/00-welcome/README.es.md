@@ -2,11 +2,11 @@
 
 ¡Estamos muy feliz de tenerte aquí! 🎉 😂
 
-![welcome jest](../../assets/welcome.png)
+![bienvenido a jest](../../assets/welcome.png)
 
 ## 💬 Fundamentos:
 
-1. Jest es un marco de prueba de JavaScript, diseñado principalmente para trabajar con aplicaciones web basadas en React y React Native.
+1. Jest es un framework de testeo de JavaScript, diseñado principalmente para trabajar con aplicaciones web basadas en React y React Native.
 
 2. Algunas características de Jest son:
 
@@ -28,13 +28,13 @@
 
 ## Objetivo del día:
 
-Hoy vamos a crear un convertidor de unidades en node.js (javascript) utilizando Test Driven Development.
+Hoy vamos a crear un convertidor de unidades en Node.js (JavaScript) utilizando Test Driven Development.
 
 Test driven development significa que primero desarrollaremos las pruebas y luego las funcionalidades.
 
-### Requerimientos:
+## Requerimientos:
 
-1. Antes de comenzar a programar en nuestro proyecto, vamos a asegurarnos de que tenemos la versión de node 12+: Puedes escribir en tu terminal el siguiente comando: `$ node -v` y te mostrará su versión de nodo actual.
+1. Antes de comenzar a programar en nuestro proyecto, vamos a asegurarnos de que tenemos la versión de Node 12+, puedes escribir en tu terminal el siguiente comando: `$ node -v` y te mostrará tu versión de Node actual.
 
 2. Abre una nueva ventana del terminal y escribe el siguiente comando en tu terminal:
 
@@ -44,17 +44,17 @@ $ node -v
 
 ## 🔎 Importante:
 
-+ Si estás utilizando Gitpod o VSCode, puedes abrir un nuevo terminal haciendo **clic** en el menú superior `terminal -> new terminal`.
++ Si estás utilizando VSCode, puedes abrir un nuevo terminal haciendo clic en el menú superior `terminal -> new terminal`.
 
 ## Colaboradores:
 
 Gracias a estas maravillosas personas ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
-1. [Alejandro Sánchez (alesanchezr)](https://github.com/alesanchezr), contribución: (programador) :computer: (idea) 🤔, (build-tests) :warning:, (pull-request-review) :eyes: (build-tutorial) :white_check_mark: (documentación) :book:
+1. [Alejandro Sánchez (alesanchezr)](https://github.com/alesanchezr), contribución: (programador) 💻, (idea) 🤔, (build-tests) ⚠️, (pull-request-review) 👀, (build-tutorial) ✅, (documentación) 📖
 
-2. [Paolo Lucano (plucodev)](https://github.com/plucodev), contribución: (programador) :computer:, (build-tests) :warning:
+2. [Paolo Lucano (plucodev)](https://github.com/plucodev), contribución: (programador) 💻, (build-tests) ⚠️
 
-3. [Marco Gómez (marcogonzalo)](https://github.com/marcogonzalo), contribución: (traducción) :earth_africa:
+3. [Marco Gómez (marcogonzalo)](https://github.com/marcogonzalo), contribución: (traducción) 🌎
 
 Este proyecto sigue las especificaciones: [all-contributors](https://github.com/kentcdodds/all-contributors). 
 
