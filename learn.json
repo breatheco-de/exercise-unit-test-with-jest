@@ -23,6 +23,6 @@
   "autoPlay": true,
 	"description": "Give a series of exercises and solutions, create the unit tests to automaticaly grade the given solutions",
 	"editor": {
-		"version": "1.0.73"
+		"version": "3.1.23"
 	}
 }
