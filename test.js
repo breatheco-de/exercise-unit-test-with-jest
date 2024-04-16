@@ -1,5 +1,8 @@
 // Importar la función sum del archivo app.js
 const { sum } = require('./app.js');
+const { fromEuroToDollar } = require('./app.js');
+const { fromYenesTolibras } = require('./app.js');
+const { fromDollarToYen } = require('./app.js');
 
 // Comienza tu primera prueba
 test('adds 14 + 9 to equal 23', () => {
