@@ -24,11 +24,13 @@ https://github.com/breatheco-de/exercise-unit-test-with-jest.git
 
 > 💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
 
-Luego sigue las siguientes instrucciones:
+## Instalacion local (opcional)
 
-1. Instala learnpack globalmente (Si es que aún no lo tienes): `$ npm i @learnpack/learnpack -g`
-2. Instala este learning package usando learnpack: `$ learnpack install unit-test-with-jest`
-3. Entra a la carpeta del ejercicio: `$ cd exercise-unit-test-with-jest`
+**Si no deseas** abrir el tutorial utilizando un proveedor en la nube (recomendado), puedes instalarlo localmente en tu computadora compliendo los siguientes pasos:
+
+1. Clone este repo.
+2. Entra a la carpeta del repositorio: `$ cd exercise-unit-test-with-jest`
+3. Instala learnpack globalmente (Si es que aún no lo tienes): `$ npm i @learnpack/learnpack -g`
 4. Comienza el ejercicio: `$ learnpack start`
 
 ## ¿Sobre qué trata este ejercicio?
