@@ -28,7 +28,7 @@ https://github.com/breatheco-de/exercise-unit-test-with-jest.git
 Then follow these instructions:
 
 1. Get into the exercise folder: `$ cd exercise-unit-test-with-jest`
-2. Download learnpack globally (if you don't have it already): `$ npm i learnpack -g`
+2. Download learnpack globally (if you don't have it already): `$ npm i @learnpack/learnpack -g`
 3. Start the exercise: `$ learnpack start`
 
 ## What is this exercise about?
