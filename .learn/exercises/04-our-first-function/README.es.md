@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=LuDQRz11QOU"
+---
+
 # `04` Our first function
 
 Para crear un pequeño ejemplo, queremos que llenes el contenido de `app.js` con la función: `sum`, que sume dos números dados. 

@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=GCe_bJMpbMU"
+---
+
 # `03` Entry Point
 
 ¡Ok, ya hemos instalado Jest exitosamente! y lo usaremos pronto... 

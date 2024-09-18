@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=XtWhSg2Dfn0"
+---
+
 # `08` Planning Our Functionalities
 
 El primer paso en cada aplicación es pensar sobre los requisitos del proyecto y cómo desarrollarlos.
