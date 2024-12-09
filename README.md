@@ -8,6 +8,8 @@ Most developers today are required not only to write code, but also need to writ
 
 Today we are going to be using the [Jest framework](https://jestjs.io/) to create our first tests.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 How to start this project
 
 This project comes with the necessary files to start working immediately.
@@ -30,6 +32,8 @@ Then follow these instructions:
 1. Get into the exercise folder: `$ cd exercise-unit-test-with-jest`
 2. Download learnpack globally (if you don't have it already): `$ npm i @learnpack/learnpack -g`
 3. Start the exercise: `$ learnpack start`
+
+</onlyfor>
 
 ## What is this exercise about?
 
