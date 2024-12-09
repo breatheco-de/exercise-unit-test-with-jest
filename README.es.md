@@ -17,7 +17,7 @@ Recomendamos abrir este mismo repositorio usando un entorno de desarrollo como [
 Este es el repositorio que necesitas abrir:
 
 ```text
-https://github.com/breatheco-de/exercise-unit-test-with-jest.git
+https://github.com/breatheco-de/exercise-unit-test-with-jest
 ```
 
 **👉 Por favor sigue estos pasos sobre** [cómo comenzar un proyecto de programación](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
