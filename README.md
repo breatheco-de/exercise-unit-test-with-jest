@@ -17,7 +17,7 @@ We recommend opening this very same repository using a provisioning tool like [C
 This is the repository you need to open:
 
 ```text
-https://github.com/breatheco-de/exercise-unit-test-with-jest.git
+https://github.com/breatheco-de/exercise-unit-test-with-jest
 ```
 
 **👉 Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
