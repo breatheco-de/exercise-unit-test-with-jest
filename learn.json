@@ -13,6 +13,7 @@
 	"difficulty": "easy",
 	"preview": "https://github.com/breatheco-de/exercise-unit-test-with-jest/blob/main/.learn/assets/preview.jpeg?raw=true",
 	"duration": 16,
+	"template_url": "self",
 	"videoSolutions": false,
 	"bugsLink": "https://github.com/learnpack/learnpack/issues/new",
 	"technologies": [
@@ -20,6 +21,7 @@
 		"jest",
 		"unit testing"
 	],
+    "projectType": "tutorial",
     "autoPlay": true,
 	"description": "Give a series of exercises and solutions, create the unit tests to automaticaly grade the given solutions",
 	"editor": {
