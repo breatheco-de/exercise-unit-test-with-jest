@@ -1,7 +1,6 @@
 {
 	"title": "Your first unit tests with Javascript's Jest Framework",
 	"slug": "unit-test-with-jest",
-	"status": "draft",
 	"solution": "https://github.com/breatheco-de/exercise-unit-test-with-jest/tree/solution",
 	"repository": "https://github.com/breatheco-de/exercise-unit-test-with-jest",
 	"grading": "incremental",
@@ -14,18 +13,20 @@
 	"preview": "https://github.com/breatheco-de/exercise-unit-test-with-jest/blob/main/.learn/assets/preview.jpeg?raw=true",
 	"duration": 16,
 	"videoSolutions": false,
+	"projectType": "tutorial",
 	"bugsLink": "https://github.com/learnpack/learnpack/issues/new",
 	"technologies": [
 		"javascript",
 		"jest",
-		"unit testing"
+		"unit testing",
+		"node"
 	],
-    "autoPlay": true,
+    	"autoPlay": true,
 	"description": "Give a series of exercises and solutions, create the unit tests to automaticaly grade the given solutions",
 	"editor": {
-		"version": "4.0"
+		"version": "5.0"
 	},
-  "telemetry": {
-    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
-  }
+	"telemetry": {
+    		"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=209"
+	}
 }
