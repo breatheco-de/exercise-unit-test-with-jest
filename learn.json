@@ -1,5 +1,8 @@
 {
-	"title": "Your first unit tests with Javascript's Jest Framework",
+	"title": {
+    "us": "Your first unit tests with Javascript's Jest Framework",
+    "es": "Tu primera prueba unitaria de Javascript con Jest"
+},
 	"slug": "unit-test-with-jest",
 	"solution": "https://github.com/breatheco-de/exercise-unit-test-with-jest/tree/solution",
 	"repository": "https://github.com/breatheco-de/exercise-unit-test-with-jest",
@@ -22,7 +25,10 @@
 		"node"
 	],
     	"autoPlay": true,
-	"description": "Give a series of exercises and solutions, create the unit tests to automaticaly grade the given solutions",
+	"description": {
+    "us": "Create a JavaScript program with Jest to convert values between currencies: from dollars to yen, from euros to dollars, and from yen to pounds. Learn how to write unit tests to automatically grade the solutions, improving your JavaScript development and automation skills.",
+    "es": "Crea un programa en JavaScript con Jest para convertir valores entre divisas: de dólares a yenes, de euros a dólares y de yenes a libras. Aprende a escribir pruebas unitarias (unit tests) para calificar automáticamente las soluciones, mejorando tus habilidades de desarrollo y automatización en JavaScript."
+},
 	"editor": {
 		"version": "5.0"
 	},
