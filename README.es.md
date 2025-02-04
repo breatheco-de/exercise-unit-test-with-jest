@@ -8,6 +8,8 @@ La mayoría de los desarrolladores hoy en día no solo deben escribir código, s
 
 Hoy usaremos el [framework de Jest](https://jestjs.io/) para crear nuestras primeras pruebas unitarias.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 Cómo comenzar este proyecto
 
 Este proyecto viene con los archivos necesarios para comenzar a trabajar de inmediato.
@@ -32,6 +34,8 @@ https://github.com/breatheco-de/exercise-unit-test-with-jest
 2. Entra a la carpeta del repositorio: `$ cd exercise-unit-test-with-jest`
 3. Instala learnpack globalmente (Si es que aún no lo tienes): `$ npm i @learnpack/learnpack -g`
 4. Comienza el ejercicio: `$ learnpack start`
+
+</onlyfor>
 
 ## ¿Sobre qué trata este ejercicio?
 
