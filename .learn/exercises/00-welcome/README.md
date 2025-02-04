@@ -18,8 +18,6 @@ We are very excited to have you here! 🎉 😂
 
 ## Useful Readings:
 
-+ [https://www.testim.io/blog/jest-testing-a-helpful-introductory-tutorial/](https://www.testim.io/blog/jest-testing-a-helpful-introductory-tutorial/)
-
 + [https://jestjs.io/](https://jestjs.io/)
 
 ## Useful Video:
