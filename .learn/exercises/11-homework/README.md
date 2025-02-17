@@ -3,6 +3,7 @@
 ## 📝 Instructions:
 
 1. Please write the tests and implementation for the two remaining functions: `fromDollarToYen` and `fromYenToPound`
+2. Please note that you will need to look for the equivalent values ​​between USD -> JPY and JPY -> GBP
 
 | Function name     | Input             | Output                            |
 | ----------------- | ----------------- | ----------------------------------|
