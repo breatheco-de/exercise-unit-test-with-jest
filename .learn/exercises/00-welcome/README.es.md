@@ -24,8 +24,6 @@ intro: "https://www.youtube.com/watch?v=r2L0FfAHdqI"
 
 + [https://code.tutsplus.com/es/tutorials/8-things-that-make-jest-the-best-react-testing-framework--cms-30534](https://code.tutsplus.com/es/tutorials/8-things-that-make-jest-the-best-react-testing-framework--cms-30534)
 
-+ [https://cynoteck.com/es/blog-post/jest-as-a-popular-javascript-testing-framework/](https://cynoteck.com/es/blog-post/jest-as-a-popular-javascript-testing-framework/)
-
 ## Video Útil:
 
 + [https://youtu.be/wA_y-72rLs0](https://youtu.be/wA_y-72rLs0)
