@@ -34,6 +34,6 @@ test("One dollar should be 146.26 yen", function() {
     // If 1 euro is 1.07 dollars, then 3.5 euros should be (3.5 * 1.07)
     const expected = 3.5 * 146.2616822429907; 
     
-    // This is the comparison for the unit test
+    // This is the comparison for the unit test.
      expect(yen).toBe(expected); // 1 euro is 1.07 dollars, then 3.5 euros should be = (3.5 * 1.07)
 })
