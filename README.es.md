@@ -26,7 +26,7 @@ https://github.com/breatheco-de/exercise-unit-test-with-jest
 
 > 💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
 
-## Instalacion local (opcional)
+## Instalación local (opcional)
 
 **Si no deseas** abrir el tutorial utilizando un proveedor en la nube (recomendado), puedes instalarlo localmente en tu computadora compliendo los siguientes pasos:
 
